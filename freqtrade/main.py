@@ -15,6 +15,7 @@ from freqtrade.freqtradebot import FreqtradeBot
 from freqtrade.state import State
 from freqtrade.rpc import RPCMessageType
 
+
 logger = logging.getLogger('freqtrade')
 
 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+            
+    
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+            
+    
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+            
+    
+    <pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+                        
+        
+        <path>/Users/fabricio/freqtrade/ta-lib</path>
+                    
+    
+    </pydev_pathproperty>
+            
+    
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/ta-lib/src</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/data</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/edge</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/exchange</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/optimize</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/pairlist</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/resolvers</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/rpc</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/strategy</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/tests</path>
+        <path>/${PROJECT_DIR_NAME}/freqtrade/vendor</path>
+    </pydev_pathproperty>
+        
+
+</pydev_project>
